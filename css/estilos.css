@@ -20,6 +20,7 @@ h1{
 }
 nav{
 	font-family: cursive;
+	
 }
 nav ul{
 	list-style-type: none;
@@ -82,4 +83,10 @@ fieldset{
 .ene{
 	color: blueviolet;
 	font-family: cursive;
+}
+.me{
+	width: 8%;
+	right: 8%;
+	float: center;
+	margin: auto;
 }
